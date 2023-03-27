@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190902182907",
+    "firebase_url": "https://social-attachment-default-rtdb.firebaseio.com",
+    "project_id": "social-attachment",
+    "storage_bucket": "social-attachment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190902182907:android:bb34c5aa8ab51a1b8be15e",
+        "android_client_info": {
+          "package_name": "my.insta.androrealm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190902182907-nul3kvamq2r7l63q0krljclfe0nd5c41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cuIE2NB-VsqZzILy99DwMTLtFx4o5Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190902182907-nul3kvamq2r7l63q0krljclfe0nd5c41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
